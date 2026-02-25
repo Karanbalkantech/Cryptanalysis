@@ -95,6 +95,9 @@ https://github.com/SpiderLabs/cribdrag
 * A tool for predicting the output of random number generators
 https://github.com/ALSchwalm/foresight
 
+* [ChartScout](https://chartscout.io/) - Automated crypto chart pattern detection and technical analysis screener for traders.
+
+
 * An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction
 https://github.com/nccgroup/featherduster
 
